@@ -2,7 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-ServerPath = "E:\Coding\OperationOnlyBans/HarshDoorstop"
+ServerPath = "E:\OHDS\HarshDoorstop"
 
 if os.name == 'nt':
     serverOs = "WindowsServer"
